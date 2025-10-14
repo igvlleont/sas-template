@@ -1,0 +1,1 @@
+:: "C:\Program Files\1cv8\8.3.27.1644\bin\1cv8.exe" designer /S localhost:GatesDirectRegportИзФайлаКонфигурации\InfobaseNameИзФайлаКонфигурации --debug

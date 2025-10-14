@@ -1,0 +1,1 @@
+:: "C:\Program Files\1cv8\8.3.27.1644\bin\ibsrv.exe" --data="ПутьКПапкеЭкзепляраСервера" --config="ПутьКПапкеЭкзепляраСервера\sas-conf.yml" --debug
