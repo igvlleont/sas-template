@@ -1,4 +1,6 @@
-:: @echo off  
-:: set /p dir_1=.dt file path:
+@echo off 
 
-:: "C:\Program Files\1cv8\8.3.27.1644\bin\ibcmd.exe" infobase restore --config="ПутьКПапкеЭкзепляраСервера\sas-conf.yml" %dir_1%
+set conf_file=sas-conf.yml 
+set /p dir_1=.dt file path:
+
+"ibcmd.exe" infobase restore --config="%CD%\%conf_file%" %dir_1%
